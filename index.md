@@ -2,12 +2,7 @@ test 1
 2
 3
 
-5th line
-
-
-
-
-10th <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 20th line
+5th line <br /> <br /> <br /> <br /> <br /> 10th <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 20th line
 
 
 
