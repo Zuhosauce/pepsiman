@@ -2,6 +2,6 @@ test 1 <br /> 2 <br /> 3 <br /> <br /> 5th line <br /> <br /> <br /> <br /> <br 
 
 
 
-This sentence will noy be too long but it will  <br /> continue on the next line even though i didnt hit enter
+This sentence will not be too long but it will  <br /> continue on the next line even though i didnt hit enter
 
 a  <br /> e  <br /> s  <br /> t  <br /> h  <br /> e  <br /> t  <br /> i  <br /> c  <br /> s
